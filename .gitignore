@@ -1,0 +1,10 @@
+.history/ 
+*.kicad_prl 
+*.lck 
+*.kicad_prl 
+*.lck 
+CurlDrive-2-backups/ 
+*.lck 
+.DS_Store 
+fp-info-cache 
+*.kicad_prl 
